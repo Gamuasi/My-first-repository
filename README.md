@@ -1,2 +1,2 @@
 # My-first-repository
-First work introducing me to GitHub
+This is my first repository introducing me to GitHub. I would love to explore more. 
